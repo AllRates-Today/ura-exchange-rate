@@ -32,69 +32,69 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-26 by Uganda Revenue Authority — 285 rates, first 60 shown. Updated 2026-11-26.</summary>
+<summary>Table as text: published 2026-11-27 by Uganda Revenue Authority — 285 rates, first 60 shown. Updated 2026-11-27.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
 | AED | UGX | export | 1118.4141 |
 | AED | UGX | import | 1129.3051 |
-| AED | UGX | income_tax | 1159.8105 |
+| AED | UGX | income_tax | 1166.2814 |
 | AED | UGX | vat | 1129.3051 |
 | AUD | UGX | export | 2866.7187 |
 | AUD | UGX | import | 2894.6307 |
-| AUD | UGX | income_tax | 2805.7458 |
+| AUD | UGX | income_tax | 2843.5931 |
 | AUD | UGX | vat | 2894.6307 |
 | BHD | UGX | export | 10924.6394 |
 | BHD | UGX | import | 11031.0224 |
-| BHD | UGX | income_tax | 11328.5106 |
+| BHD | UGX | income_tax | 11393.1117 |
 | BHD | UGX | vat | 11031.0224 |
 | BIF | UGX | export | 1.3693 |
 | BIF | UGX | import | 1.3827 |
-| BIF | UGX | income_tax | 1.4147 |
+| BIF | UGX | income_tax | 1.4257 |
 | BIF | UGX | vat | 1.3827 |
 | BND | UGX | export | 3207.4437 |
 | BND | UGX | import | 3238.6774 |
-| BND | UGX | income_tax | 3330.677 |
+| BND | UGX | income_tax | 3349.6702 |
 | BND | UGX | vat | 3238.6774 |
 | BRL | UGX | export | 792.7891 |
 | BRL | UGX | import | 800.5092 |
-| BRL | UGX | income_tax | 783.2542 |
+| BRL | UGX | income_tax | 787.7207 |
 | BRL | UGX | vat | 800.5092 |
 | BWP | UGX | export | 290.9931 |
 | BWP | UGX | import | 293.8268 |
-| BWP | UGX | income_tax | 308.5347 |
+| BWP | UGX | income_tax | 310.2941 |
 | BWP | UGX | vat | 293.8268 |
 | CAD | UGX | export | 2901.0436 |
 | CAD | UGX | import | 2929.2876 |
-| CAD | UGX | income_tax | 2982.5439 |
+| CAD | UGX | income_tax | 3011.7833 |
 | CAD | UGX | vat | 2929.2876 |
 | CDF | UGX | export | 1.777 |
 | CDF | UGX | import | 1.7943 |
-| CDF | UGX | income_tax | 1.8316 |
+| CDF | UGX | income_tax | 1.842 |
 | CDF | UGX | vat | 1.7943 |
 | CHF | UGX | export | 4957.4451 |
 | CHF | UGX | import | 5005.7149 |
-| CHF | UGX | income_tax | 5089.3363 |
+| CHF | UGX | income_tax | 5150.3577 |
 | CHF | UGX | vat | 5005.7149 |
 | CLP | UGX | export | 4.2193 |
 | CLP | UGX | import | 4.2604 |
-| CLP | UGX | income_tax | 4.3572 |
+| CLP | UGX | income_tax | 4.382 |
 | CLP | UGX | vat | 4.2604 |
 | CNY | UGX | export | 614.0847 |
 | CNY | UGX | import | 620.0642 |
-| CNY | UGX | income_tax | 638.4125 |
+| CNY | UGX | income_tax | 642.8576 |
 | CNY | UGX | vat | 620.0642 |
 | COP | UGX | export | 1.2406 |
 | COP | UGX | import | 1.2527 |
-| COP | UGX | income_tax | 1.3284 |
+| COP | UGX | income_tax | 1.336 |
 | COP | UGX | vat | 1.2527 |
 | CRC | UGX | export | 8.9894 |
 | CRC | UGX | import | 9.077 |
-| CRC | UGX | income_tax | 9.3821 |
+| CRC | UGX | income_tax | 9.4356 |
 | CRC | UGX | vat | 9.077 |
 | CZK | UGX | export | 189.7009 |
 | CZK | UGX | import | 191.5482 |
-| CZK | UGX | income_tax | 196.1379 |
+| CZK | UGX | income_tax | 197.2563 |
 | CZK | UGX | vat | 191.5482 |
 
 </details>
